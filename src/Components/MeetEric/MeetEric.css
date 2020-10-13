@@ -1,0 +1,23 @@
+#meet-eric-container {
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
+.meet-eric-right{
+
+}
+.meet-eric-left{
+    position: relative;
+    left: 0%;
+    top: 6%;
+    right: auto;
+    bottom: 0%;
+    width: 35%;
+    height: 0px;
+    min-height: 440px;
+    border-radius: 5px;
+    background: goldenrod;
+    background-image: url("../../assets/eric.jpg");
+    background-position: 50%;
+    /* background-size: 270%; */
+}

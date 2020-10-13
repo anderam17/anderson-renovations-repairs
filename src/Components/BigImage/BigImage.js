@@ -10,7 +10,7 @@ function BigImage() {
             <div className="container">
                 <div className="hero-wrapper">
                 <h1 className="hero-heading">Putting YOU first</h1>
-                <p className="hero-paragraph">Eric Anderson has made it his life mission to help people make their home exactly what they want with no strings attached.</p>
+                <p className="hero-paragraph">Anderson Renovations and Repairs is an independently owned and operated business with 20+ years of experience all leveraged to help you make your space what you want.</p>
                 </div>
             </div>
         </div>

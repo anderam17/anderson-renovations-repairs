@@ -1,23 +1,36 @@
-#meet-eric-container {
-    color: black;
-    display: flex;
-    flex-direction: column;
+#meet-eric-container{
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+h1 {
+    font-size: 50px !important;
 }
 .meet-eric-right{
+    float: right;
+    position: relative;
+    right: 0px;
+    top: 40px;
 
+    height: 60%;
+    width: 80%;
+    padding: 50px 50px 50px 300px;
+    border-radius: 5px;
+    background: rgb(66, 57, 71);
+    color: aliceblue;
 }
 .meet-eric-left{
+    float: left;
     position: relative;
-    left: 0%;
-    top: 6%;
-    right: auto;
-    bottom: 0%;
-    width: 35%;
+    bottom: 450px;
+    left: 0px;
+    
+    width: 40%;
     height: 0px;
     min-height: 440px;
     border-radius: 5px;
-    background: goldenrod;
     background-image: url("../../assets/eric.jpg");
     background-position: 50%;
-    /* background-size: 270%; */
 }

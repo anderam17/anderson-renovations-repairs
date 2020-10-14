@@ -33,12 +33,14 @@ h1 {
     bottom: 600px;
     left: 0px;
     
-    width: 40%;
-    height: 0px;
+    width: 35%;
+    height: 500px;
+    /* height: 0px; */
     /* min-height: 440px; */
     border-radius: 5px;
     background-image: url("../../assets/eric.jpg");
-    background-position: 50%;
+    background-position-x: center;
+    background-position-y: 0px;
 }
 
 @media screen and (max-width: 769px){

@@ -35,12 +35,36 @@ h1 {
     
     width: 40%;
     height: 0px;
-    min-height: 440px;
+    /* min-height: 440px; */
     border-radius: 5px;
     background-image: url("../../assets/eric.jpg");
     background-position: 50%;
 }
 
 @media screen and (max-width: 769px){
-
+#meet-eric-container{
+    margin-top: 15px;
+}
+.meet-eric-wrapper{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.meet-eric-right{
+    padding: 15px;
+    width: 90%;
+    line-height: 22px;
+    font-size: 18px;
+    margin: 15px 0 15px 35px;
+}
+.meet-eric-left{
+    left: 22%;
+    bottom: 0px;
+    height: 280px;
+    background-position-y: top;
+    width: 55%;
+}
+h1{
+    font-size: 30px !important;
+    text-align: center;
+}
 }

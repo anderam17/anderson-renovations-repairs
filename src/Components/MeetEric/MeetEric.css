@@ -1,14 +1,18 @@
 body{
     background-image: url("../../assets/concrete.png");
 }
+.container{
+    max-height: auto;
+}
 #meet-eric-container{
-    /* max-width: 1200px; */
-    margin: 40px auto 0 auto;
+    max-width: 1200px;
+    margin: 50px auto 0 auto;
     padding-right: 15px;
     padding-left: 15px;
 }
 .meet-eric-wrapper{
     height: 80%;
+    max-height: 900px;
 }
 h1 {
     font-size: 50px !important;
@@ -35,4 +39,8 @@ h1 {
     border-radius: 5px;
     background-image: url("../../assets/eric.jpg");
     background-position: 50%;
+}
+
+@media screen and (max-width: 769px){
+
 }

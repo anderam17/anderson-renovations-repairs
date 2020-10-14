@@ -28,15 +28,19 @@
     font-size: 20px;
 }
 
-@media only screen and (max-width: 766px) {
+@media only screen and (max-width: 769px) {
+    .container{
+        align-items: flex-end;
+    }
     .hero-wrapper{
         width: 100%;
+        margin-bottom: 32px;
     }
     .hero-heading {
         font-size: 30px;
     }
     .hero-paragraph{
-        line-height: 20px;
-        font-size: 18px;
+        line-height: 35px;
+        font-size: 22px;
     }
   }

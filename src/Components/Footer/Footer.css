@@ -1,3 +1,7 @@
 .footer{
     background: rgb(66, 57, 71);
+    height: 200px;
+}
+.footer-column{
+    color: white;
 }

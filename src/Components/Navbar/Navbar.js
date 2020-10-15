@@ -8,7 +8,7 @@ import {
   NavLink
 } from 'reactstrap';
 import "./Navbar.css";
-import logo from "../../assets/fb-icon.png";
+import logo from "../../assets/Anderson-Logo-Simple.png";
 
 function MyNavbar() {
 

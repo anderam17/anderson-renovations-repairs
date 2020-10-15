@@ -3,18 +3,14 @@ import "./ReviewCard.css";
 import {
   Card,
   CardTitle,
-  CardText,
-  CardColumns,
+  CardText
 } from "reactstrap";
 
 function ReviewCard({ name, location, job_description, work_quality, eric }) {
   return (
     <>
-        <Card
-          body
-          inverse
-          style={{ backgroundColor: "#333", borderColor: "#333" }}
-        >
+    <div className="review-card">
+        <Card body outline color="secondary">
           <CardTitle>{name}, {location}</CardTitle>
           <CardText>
            <b>What project did Anderson Renovations and Repairs do for you? </b>
@@ -32,6 +28,7 @@ function ReviewCard({ name, location, job_description, work_quality, eric }) {
            {eric}
           </CardText>
         </Card>
+    </div>
     </>
   );
 }

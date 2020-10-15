@@ -2,11 +2,13 @@ import React from "react";
 import "./ReviewContainer.css";
 import ReviewCard from "../ReviewCard/ReviewCard";
 import reviews from "../../reviews.json";
+import {CardColumns} from "reactstrap";
 
 function ReviewContainer() {
   return (
     <>
       <div id="review-cards">
+      <CardColumns>
         {reviews.map((review) => (
           <ReviewCard
             name={review.name}
@@ -16,6 +18,7 @@ function ReviewContainer() {
             eric={review.eric}
           />
         ))}
+        </CardColumns>
       </div>
     </>
   );

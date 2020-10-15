@@ -12,6 +12,7 @@ function Footer() {
           <div className="footer-wrapper">
             <div className="footer-column">
                 Located in/around Nashville, TN
+                <br/>
                 CONTACT US:
                 <br/>
                 <FontAwesomeIcon icon={faEnvelopeSquare} /> andersonrenovationsandrepairs@gmail.com

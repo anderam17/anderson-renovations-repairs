@@ -2,113 +2,113 @@
     {
         "name": "Ken Markus",
         "location": "Bellevue",
-        "job-description": "Repair ceiling drywall from broke plumbing that flooded upstairs bathroom.",
-        "work-quality": "Eric came in and did a fantastic job repairing ceiling back to what is was before the plumbing broke and flooded bathroom upstairs.",
+        "job_description": "Repair ceiling drywall from broke plumbing that flooded upstairs bathroom.",
+        "work_quality": "Eric came in and did a fantastic job repairing ceiling back to what is was before the plumbing broke and flooded bathroom upstairs.",
         "eric": "Eric does great work and is easy to communicate and work with. Price is right and straight forward."
     },
     {
         "name": "Tommy & Brenda Cowell",
         "location": "Nashville",
-        "job-description": "Complete remodel of kitchen and painting.",
-        "work-quality": "Excellent work.",
+        "job_description": "Complete remodel of kitchen and painting.",
+        "work_quality": "Excellent work.",
         "eric": "It was a pleasure to have Eric do the work we needed. Will definitely use him again."
     },
     {
         "name": "Aakash Kapoor",
         "location": "Franklin",
-        "job-description": "Finished basement, bath, electrical, plumbing.",
-        "work-quality": "'Fantastic' is how I would like to start my review. I have know Eric and his family for close to six years but when we moved into our new house we acquired an unfinished basement and a house full of defects. But 'Thank God' Eric was there every step of the way guiding and implementing everything that was needed to complete the project. Amazing work ethic fantastic workmanship and l can not recommend anyone else ever to do and work around the house but Eric.",
+        "job_description": "Finished basement, bath, electrical, plumbing.",
+        "work_quality": "'Fantastic' is how I would like to start my review. I have know Eric and his family for close to six years but when we moved into our new house we acquired an unfinished basement and a house full of defects. But 'Thank God' Eric was there every step of the way guiding and implementing everything that was needed to complete the project. Amazing work ethic fantastic workmanship and l can not recommend anyone else ever to do and work around the house but Eric.",
         "eric": "Eric is the most exceptional person to work with he understands your needs and wants."
     },
     {
         "name": "Thomas Goddard",
         "location": "Nashville",
-        "job-description": "Entire home remodel.",
-        "work-quality": "Being a home remodeler myself, I rely on Eric's expertise and attention to detail.",
-        "eric": "It's hard to find a good contractor who is honest, hard-working, and reliable. The entire family has a great work ethic and it is always a pleasure working with them."
+        "job_description": "Entire home remodel.",
+        "work_quality": "Being a home remodeler myself, I rely on Eric's expertise and attention to detail.",
+        "eric": "It's hard to find a good contractor who is honest, hard_working, and reliable. The entire family has a great work ethic and it is always a pleasure working with them."
     },
     {
         "name": "Daniela Cullen",
         "location": "Nashville",
-        "job-description": "Complete renovation of bathroom.",
-        "work-quality": "Eric’s work in our bathroom was impressive. He transformed our very outdated bathroom into a beautiful new space. The quality of his work is remarkable and his attention to detail is what sets him apart.",
+        "job_description": "Complete renovation of bathroom.",
+        "work_quality": "Eric’s work in our bathroom was impressive. He transformed our very outdated bathroom into a beautiful new space. The quality of his work is remarkable and his attention to detail is what sets him apart.",
         "eric": "Working with Eric was seamless. He communicated his ideas and plans well and was always available if I had any questions or issues. He was open to my suggestions and I always felt like my vision of what I wanted was understood."
     },
     {
         "name": "PMI Music City",
         "location": "Nashville",
-        "job-description": "Painting, punch list items for rentals",
-        "work-quality": "Great work, trustworthy, and does what he says he is going to do.",
+        "job_description": "Painting, punch list items for rentals",
+        "work_quality": "Great work, trustworthy, and does what he says he is going to do.",
         "eric": "He's knowledgeable and easy to work with."
     },
     {
         "name": "Resa Brown",
         "location": "Ashland City ",
-        "job-description": "Pool Deck, House Deck, Bathroom Renovation, Electrical",
-        "work-quality": "Anderson’s Renovations did an outstanding job. We had this company build two decks for us. Also a complete bathroom renovation. All 3 projects exceeded our expectations. The quality and workmanship met our satisfaction. Would highly recommend this company.",
+        "job_description": "Pool Deck, House Deck, Bathroom Renovation, Electrical",
+        "work_quality": "Anderson’s Renovations did an outstanding job. We had this company build two decks for us. Also a complete bathroom renovation. All 3 projects exceeded our expectations. The quality and workmanship met our satisfaction. Would highly recommend this company.",
         "eric": "Eric was professional but yet a down to earth guy. It was like having my brother come over everyday. Always showed up on time and worked a full day. Super nice guy. I would say this for any help that showed up with him also. Everyone was sincerely respectable and trustworthy which is very important in my opinion when you open up your home to strangers to complete a renovation. I was able to leave this crew in my home working while I ran errands without any hesitation. That’s a five star rating in my opinion."
     },
     {
         "name": "Jim ClenDening",
         "location": "Nashville & Bellevue",
-        "job-description": "Refurbishing sister’s house to sell & installing dehumidifier under house.",
-        "work-quality": "Eric and Jennifer did numerous repairs to prepare my sister’s house for sell. They repaired damage caused by 'painters'. Had to repair damage to drywall & complete painting not done properly by 'painters'. Also did numerous repairs & installation on electrical & plumbing. Eric did gutter repair & installation of total house dehumidifier under house in our house plus other general repairs." ,
+        "job_description": "Refurbishing sister’s house to sell & installing dehumidifier under house.",
+        "work_quality": "Eric and Jennifer did numerous repairs to prepare my sister’s house for sell. They repaired damage caused by 'painters'. Had to repair damage to drywall & complete painting not done properly by 'painters'. Also did numerous repairs & installation on electrical & plumbing. Eric did gutter repair & installation of total house dehumidifier under house in our house plus other general repairs." ,
         "eric": "Eric is very knowledgeable on many subjects. He offered options to projects & was considerate of prices. High skill level with reasonable prices."
     },
     {
         "name": "Derrick Allen",
         "location": "Ashland city",
-        "job-description": "Basement transformation, 1200 square foot, and patio cover.",
-        "work-quality": "The smallest of imperfections was not ok with what they wanted to accept. The joist in the ceiling wasn’t straight so they shimmied every joist so the drywall would be level across the ceiling. They are not happy accepting just ok even if it’s my decision." ,
+        "job_description": "Basement transformation, 1200 square foot, and patio cover.",
+        "work_quality": "The smallest of imperfections was not ok with what they wanted to accept. The joist in the ceiling wasn’t straight so they shimmied every joist so the drywall would be level across the ceiling. They are not happy accepting just ok even if it’s my decision." ,
         "eric": "Very personal and unlike many contractors very honest and will give you a full days work and then some. After a few days it’s as they’ve been your friends for life."
     },
     {
         "name": "Jim ClenDening",
         "location": "Nashville & Bellevue",
-        "job-description": "Refurbishing sister’s house to sell & installing dehumidifier under house.",
-        "work-quality": "The smallest of imperfections was not ok with what they wanted to accept. The joist in the ceiling wasn’t straight so they shimmied every joist so the drywall would be level across the ceiling. They are not happy accepting just ok even if it’s my decision." ,
+        "job_description": "Refurbishing sister’s house to sell & installing dehumidifier under house.",
+        "work_quality": "The smallest of imperfections was not ok with what they wanted to accept. The joist in the ceiling wasn’t straight so they shimmied every joist so the drywall would be level across the ceiling. They are not happy accepting just ok even if it’s my decision." ,
         "eric": "Very personal and unlike many contractors very honest and will give you a full days work and then some. After a few days it’s as they’ve been your friends for life."
     },
     {
         "name": "Jacqulyn Whittemore",
         "location": "Bellevue",
-        "job-description": "Rebuilt deck stairs.",
-        "work-quality": "The stairs look better than the first time we had them built (about 15 years ago). They are sturdy, have additional support and the problem area that caused the problem has now been fixed." ,
+        "job_description": "Rebuilt deck stairs.",
+        "work_quality": "The stairs look better than the first time we had them built (about 15 years ago). They are sturdy, have additional support and the problem area that caused the problem has now been fixed." ,
         "eric": "Anderson's Renovations exceeded our expectations for our deck stair build. They were punctual, knowledgeable, professional, listened to our concerns, helped problem solve the issue, went above and beyond with additional supplies and left the area as tidy as it was when they arrived. I would highly recommend this company for any home/deck build and/or repairs. It's great to know there are still hard working, skilled laborers out there that take 100% pride in their work while making sure they have addressed the concerns of the homeowner. We received 5 star service and will be sure to use them again for additional jobs that may arise."
     },
     {
         "name": "Tammy Farmer",
         "location": "Pleasant View",
-        "job-description": "Pull out shelving.",
-        "work-quality": "Excellent quality. Couldn’t be happier with what Eric built for me. He showed up I told him kind of what I was wanting and he made it reality. Would gladly use him again for home improvement/renovation needs." ,
+        "job_description": "Pull out shelving.",
+        "work_quality": "Excellent quality. Couldn’t be happier with what Eric built for me. He showed up I told him kind of what I was wanting and he made it reality. Would gladly use him again for home improvement/renovation needs." ,
         "eric": "Very easy going and accommodating."
     },
     {
         "name": "Donna Longuevan",
         "location": "Nashville",
-        "job-description": "Kitchen, bathroom, living room, 3 bedrooms, and washroom remodeled.",
-        "work-quality": "Eric did a excellent job, cost was reasonable, his quality of work was excellent. I was very impressed and satisfied." ,
+        "job_description": "Kitchen, bathroom, living room, 3 bedrooms, and washroom remodeled.",
+        "work_quality": "Eric did a excellent job, cost was reasonable, his quality of work was excellent. I was very impressed and satisfied." ,
         "eric": "Eric is one of the nicest and easiest persons to work with."
     },
     {
         "name": "Tony Carletello",
         "location": "Bellevue",
-        "job-description": "Electrical.",
-        "work-quality": "The work Eric did was perfect." ,
+        "job_description": "Electrical.",
+        "work_quality": "The work Eric did was perfect." ,
         "eric": "I found Eric to be very fair with his pricing, communication and quality of work."
     },
     {
         "name": "Amy Thien",
         "location": "Nashville",
-        "job-description": "Renovation of part of garage into large playroom/ mud room.",
-        "work-quality": "Eric took part of a 3 car garage and transformed it into a beautiful spacious playroom with two storage closets and trimmed out a mud room area for us. He also replaced our staircase, rerouted electrical, installed barn door and custom cut the trim to fit my 'farmhouse' taste for the room. Everything turned out beautifully." ,
+        "job_description": "Renovation of part of garage into large playroom/ mud room.",
+        "work_quality": "Eric took part of a 3 car garage and transformed it into a beautiful spacious playroom with two storage closets and trimmed out a mud room area for us. He also replaced our staircase, rerouted electrical, installed barn door and custom cut the trim to fit my 'farmhouse' taste for the room. Everything turned out beautifully." ,
         "eric": "Eric is wonderful to work with. He has a great temperament, is very agreeable to work with, and offers insightful ideas/ solutions to problems. He is timely and reliable, very conscientious, and cleans up daily after work, never leaving a large mess behind him. His work is very high quality and he takes great pride in what he does. Eric is always kind to our children as well whom I know can get in the way at times. He’s a great human being and we only wish we had met him sooner as we had gone through several contractors before him who were not nearly as talented or reliable. I recommend him highly for just about any job imaginable."
     },
     {
         "name": "Andy Brown",
         "location": "Pegram",
-        "job-description": "Laminate flooring install, stair tread install, baseboard install.",
-        "work-quality": "Eric’s work was phenomenal! He has a keen attention to detail. I felt as though he treated the project as if it was his own home and the quality of the finish shows." ,
+        "job_description": "Laminate flooring install, stair tread install, baseboard install.",
+        "work_quality": "Eric’s work was phenomenal! He has a keen attention to detail. I felt as though he treated the project as if it was his own home and the quality of the finish shows." ,
         "eric": "Eric will be my only call for renovations and repairs. I’ve even put projects off until he’s available to get to them. The quality of work he performs, along with his (more than) fair as transparent quotes, gives me great comfort when I pick up the phone to call him."
     }
 ]

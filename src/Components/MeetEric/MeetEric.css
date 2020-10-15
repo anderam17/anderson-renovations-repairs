@@ -11,8 +11,7 @@ body{
     padding-left: 15px;
 }
 .meet-eric-wrapper{
-    height: 80%;
-    max-height: 900px;
+    max-height: 750px;
 }
 h1 {
     font-size: 50px !important;
@@ -35,8 +34,6 @@ h1 {
     
     width: 35%;
     height: 500px;
-    /* height: 0px; */
-    /* min-height: 440px; */
     border-radius: 5px;
     background-image: url("../../assets/eric.jpg");
     background-position-x: center;

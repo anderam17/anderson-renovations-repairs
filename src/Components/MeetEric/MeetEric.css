@@ -19,6 +19,7 @@ h1 {
 }
 .meet-eric-right{
     float: right;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 
     height: 60%;
     width: 80%;
@@ -32,6 +33,7 @@ h1 {
     position: relative;
     bottom: 600px;
     left: 0px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     
     width: 35%;
     height: 500px;

@@ -8,6 +8,7 @@ import {
   NavLink
 } from 'reactstrap';
 import "./Navbar.css";
+import{ useHistory, Link } from "react-router-dom";
 import logo from "../../assets/Anderson-Logo-Simple.png";
 
 function MyNavbar() {
@@ -15,6 +16,15 @@ function MyNavbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggle = () => setIsOpen(!isOpen);
+
+  // const history = useHistory();
+  // const toReviewPage = () => {
+  //   history.push("/reviews")
+  // };
+
+  // const toHomePage = () => {
+  //   history.push("/")
+  // };
 
   return (
     <>
@@ -25,16 +35,20 @@ function MyNavbar() {
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
             <NavItem>
-              <NavLink href="/components/">Home</NavLink>
+              {/* <NavLink href="#" onClick={toHomePage}>Home</NavLink> */}
+              <Link to="/">Home </Link>
             </NavItem>
             <NavItem>
-              <NavLink href="https://github.com/reactstrap/reactstrap">Services</NavLink>
+              <NavLink href="#">Services</NavLink>
+              {/* <Link to="/services">Services </Link> */}
             </NavItem>
             <NavItem>
-              <NavLink href="https://github.com/reactstrap/reactstrap">Reviews</NavLink>
+              {/* <NavLink href="#" onClick={toReviewPage}>Reviews</NavLink> */}
+              <Link to="/reviews">Reviews </Link>
             </NavItem>
             <NavItem>
-              <NavLink href="https://github.com/reactstrap/reactstrap">Contact</NavLink>
+              <NavLink href="#">Contact Us</NavLink>
+              {/* <Link to="/contact">Contact </Link */}
             </NavItem>
           </Nav>
         </Collapse>

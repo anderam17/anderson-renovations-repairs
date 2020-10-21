@@ -1,14 +1,11 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 import './App.css';
 import Navbar from "./Components/Navbar/Navbar";
-// import BigImage from "./Components/BigImage/BigImage";
-// import MeetEric from "./Components/MeetEric/MeetEric";
 import HomePage from "./Components/HomePage/HomePage";
-// import ReviewContainer from "./Components/ReviewContainer/ReviewContainer";
-// import ReviewHeader from "./Components/ReviewHeader/ReviewHeader";
 import ReviewPage from "./Components/ReviewPage/ReviewPage";
 import Footer from "./Components/Footer/Footer";
+import ContactPage from "./Components/ContactPage/ContactPage";
 
 function App() {
   return (
@@ -18,11 +15,8 @@ function App() {
         <Switch>
           <Route exact path="/" component={HomePage} />
           <Route path="/reviews" component={ReviewPage} />
+          <Route path="/contact" component={ContactPage} />
         </Switch>
-     
-
-      {/* <ReviewPage />
-      <HomePage /> */}
       <Footer />
     </>
   );

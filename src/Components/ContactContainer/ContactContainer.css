@@ -1,0 +1,14 @@
+.contact-container{
+    width: 90%;
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.row{
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}

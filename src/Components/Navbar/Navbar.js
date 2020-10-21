@@ -17,15 +17,6 @@ function MyNavbar() {
 
   const toggle = () => setIsOpen(!isOpen);
 
-  // const history = useHistory();
-  // const toReviewPage = () => {
-  //   history.push("/reviews")
-  // };
-
-  // const toHomePage = () => {
-  //   history.push("/")
-  // };
-
   return (
     <>
       <div>
@@ -47,8 +38,8 @@ function MyNavbar() {
               <Link to="/reviews">Reviews </Link>
             </NavItem>
             <NavItem>
-              <NavLink href="#">Contact Us</NavLink>
-              {/* <Link to="/contact">Contact </Link */}
+              {/* <NavLink href="#">Contact Us</NavLink> */}
+              <Link to="/contact">Contact Us</Link>
             </NavItem>
           </Nav>
         </Collapse>

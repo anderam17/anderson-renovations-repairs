@@ -9,6 +9,5 @@
     height: 250px;
     display: flex;
     justify-content: center;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-bottom: 15px;
 }

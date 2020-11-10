@@ -9,8 +9,10 @@ function ContactCard({ subtitle, description, faIcon, contactInfo }) {
       <div className="contact-card">
         <FontAwesomeIcon transform="grow-30" icon={faIcon} />
         <h2 className="subtitle"><b>{subtitle}</b></h2>
+        <div className="contact-paragraph">
         <p className="description">{description}</p>
         <p className="contact-info">{contactInfo}</p>
+        </div>
       </div>
     </>
   );

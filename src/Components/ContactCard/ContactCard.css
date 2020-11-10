@@ -1,7 +1,6 @@
 .contact-card{
     width: 30%;
     text-align: center;
-    /* height: 100%; */
     background: #d6d3d3;
     display: flex;
     justify-content: center;
@@ -12,4 +11,13 @@
 }
 .subtitle{
     margin-top: 10%;
+}
+.contact-paragraph{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 90%;
+}
+.contact-info {
+    font-size: 1.3vw;
 }

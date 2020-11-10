@@ -4,11 +4,10 @@ import {
   Navbar,
   NavbarToggler,
   Nav,
-  NavItem,
-  NavLink
+  NavItem
 } from 'reactstrap';
 import "./Navbar.css";
-import{ useHistory, Link } from "react-router-dom";
+import{ Link } from "react-router-dom";
 import logo from "../../assets/Anderson-Logo-Simple.png";
 
 function MyNavbar() {
@@ -26,19 +25,15 @@ function MyNavbar() {
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
             <NavItem>
-              {/* <NavLink href="#" onClick={toHomePage}>Home</NavLink> */}
               <Link to="/">Home </Link>
             </NavItem>
             <NavItem>
-              <NavLink href="#">Services</NavLink>
-              {/* <Link to="/services">Services </Link> */}
+              <Link to="/services">Services </Link>
             </NavItem>
             <NavItem>
-              {/* <NavLink href="#" onClick={toReviewPage}>Reviews</NavLink> */}
               <Link to="/reviews">Reviews </Link>
             </NavItem>
             <NavItem>
-              {/* <NavLink href="#">Contact Us</NavLink> */}
               <Link to="/contact">Contact Us</Link>
             </NavItem>
           </Nav>

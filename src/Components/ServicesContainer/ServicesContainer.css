@@ -1,0 +1,13 @@
+.services-container{
+    width: 90%;
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.row{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}

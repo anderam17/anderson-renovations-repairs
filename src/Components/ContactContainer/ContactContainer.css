@@ -1,13 +1,15 @@
 .contact-container{
     width: 90%;
+    height: 70%;
     margin: 10px 10px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
 .row{
-    height: 250px;
+    height: 300px !important;
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-bottom: 15px;
 }

@@ -1,12 +1,16 @@
 import React from "react";
 import "./ServiceCard.css";
 
-function ServiceCard({ imageClass, id, title, description, services, image }) {
-  //!how am I going to pass the image thing through if I have it as background image?
+function ServiceCard({ imageClass, title, description, services}) {
+
   return (
     <>
       <div className="card services-card">
-        <div className="card-img" id={imageClass}></div>
+        <div className="card-img" id={imageClass}>
+        <div className="middle">
+            <div className="text">See More</div>
+          </div>
+        </div>
         <div className="card-body services-body">
           <h2 className="services-title"> {title}</h2>
           <p>{description}</p>
@@ -15,7 +19,6 @@ function ServiceCard({ imageClass, id, title, description, services, image }) {
               services.map((item) => {
                 return <li>{item}</li>;
               })}
-          <a href="#" id={id}>See More Here</a>
           </ul>
         </div>
       </div>

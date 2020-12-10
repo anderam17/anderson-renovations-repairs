@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "../Header/Header";
-import ReviewContainer from "../ReviewContainer/ReviewContainer";
+import Header from "../../Components/Header/Header";
+import ReviewContainer from "../../Components/ReviewContainer/ReviewContainer";
 
 function ReviewPage() {
   return (

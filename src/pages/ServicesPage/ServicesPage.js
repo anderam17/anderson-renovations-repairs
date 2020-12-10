@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "../Header/Header";
-import ServicesContainer from "../ServicesContainer/ServicesContainer";
+import Header from "../../Components/Header/Header";
+import ServicesContainer from "../../Components/ServicesContainer/ServicesContainer";
 
 function HomePage() {
   return (

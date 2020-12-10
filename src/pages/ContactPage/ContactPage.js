@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "../Header/Header";
-import ContactContainer from "../ContactContainer/ContactContainer"
+import Header from "../../Components/Header/Header";
+import ContactContainer from "../../Components/ContactContainer/ContactContainer"
 
 
 function ContactPage() {

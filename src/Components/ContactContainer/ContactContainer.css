@@ -6,7 +6,7 @@
     flex-direction: row;
     justify-content: space-around;
 }
-.row{
+#contact-card-row{
     height: 300px !important;
     display: flex;
     justify-content: center;

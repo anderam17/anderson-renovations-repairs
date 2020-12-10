@@ -2,11 +2,11 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import './App.css';
 import Navbar from "./Components/Navbar/Navbar";
-import HomePage from "./Components/HomePage/HomePage";
-import ReviewPage from "./Components/ReviewPage/ReviewPage";
+import HomePage from "./pages/HomePage/HomePage";
+import ReviewPage from "./pages/ReviewPage/ReviewPage";
 import Footer from "./Components/Footer/Footer";
-import ContactPage from "./Components/ContactPage/ContactPage";
-import ServicesPage from "./Components/ServicesPage/ServicesPage";
+import ContactPage from "./pages/ContactPage/ContactPage";
+import ServicesPage from "./pages/ServicesPage/ServicesPage";
 
 function App() {
   return (

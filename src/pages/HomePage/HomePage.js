@@ -1,6 +1,6 @@
 import React from "react";
-import HeroImage from "../BigImage/BigImage";
-import MeetEric from "../MeetEric/MeetEric";
+import HeroImage from "../../Components/BigImage/BigImage";
+import MeetEric from "../../Components/MeetEric/MeetEric";
 
 function HomePage() {
   return (

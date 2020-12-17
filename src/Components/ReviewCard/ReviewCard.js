@@ -1,7 +1,7 @@
 import React from "react";
 import "./ReviewCard.css";
 
-function ReviewCard({ name, location, job_description, work_quality, eric }) {
+function ReviewCard({ name, location, work_quality, eric }) {
   return (
     <>
       <div className="review-wrapper">

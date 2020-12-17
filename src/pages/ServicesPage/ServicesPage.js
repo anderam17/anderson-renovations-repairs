@@ -2,13 +2,14 @@ import React from "react";
 import Header from "../../Components/Header/Header";
 import ServicesContainer from "../../Components/ServicesContainer/ServicesContainer";
 
-function HomePage() {
+function ServicesPage() {
+
   return (
     <>
-        <Header title="Services Offered"/>
-        <ServicesContainer />
+      <Header title="Services Offered" />
+      <ServicesContainer />
     </>
   );
 }
 
-export default HomePage;
+export default ServicesPage;

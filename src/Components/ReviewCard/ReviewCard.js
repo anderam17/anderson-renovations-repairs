@@ -9,7 +9,7 @@ function ReviewCard({ name, location, job_description, work_quality, eric }) {
           <p className="work quote">{work_quality}</p>
           <br />
           <p className="eric quote">{eric}</p>
-          <p class="attribution">
+          <p className="attribution">
             -{name}, {location}
           </p>
         </div>

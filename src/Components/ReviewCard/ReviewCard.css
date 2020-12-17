@@ -33,3 +33,15 @@
   font-size: 1.5rem;
   font-style: normal;
 }
+
+@media only screen and (max-width: 768px) {
+.review-wrapper {
+  width: 50%;
+}
+}
+
+@media only screen and (max-width: 600px) {
+  .review-wrapper {
+    width: 90%;
+  }
+}

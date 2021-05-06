@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/anderson-renovations-repairs/static/css/main.e6e9b6ff.chunk.css",
-    "main.js": "/anderson-renovations-repairs/static/js/main.ab6cb206.chunk.js",
-    "main.js.map": "/anderson-renovations-repairs/static/js/main.ab6cb206.chunk.js.map",
-    "runtime-main.js": "/anderson-renovations-repairs/static/js/runtime-main.197bbf02.js",
-    "runtime-main.js.map": "/anderson-renovations-repairs/static/js/runtime-main.197bbf02.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/anderson-renovations-repairs/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.0f19fa27.chunk.js": "/anderson-renovations-repairs/static/js/2.0f19fa27.chunk.js",
-    "static/js/2.0f19fa27.chunk.js.map": "/anderson-renovations-repairs/static/js/2.0f19fa27.chunk.js.map",
-    "index.html": "/anderson-renovations-repairs/index.html",
-    "precache-manifest.c9dba255bb77b13c94f851661f97dbdc.js": "/anderson-renovations-repairs/precache-manifest.c9dba255bb77b13c94f851661f97dbdc.js",
-    "service-worker.js": "/anderson-renovations-repairs/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/anderson-renovations-repairs/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.e6e9b6ff.chunk.css.map": "/anderson-renovations-repairs/static/css/main.e6e9b6ff.chunk.css.map",
-    "static/js/2.0f19fa27.chunk.js.LICENSE.txt": "/anderson-renovations-repairs/static/js/2.0f19fa27.chunk.js.LICENSE.txt",
-    "static/media/Anderson-Logo-Simple.png": "/anderson-renovations-repairs/static/media/Anderson-Logo-Simple.6a77924f.png",
-    "static/media/ServiceCard.css": "/anderson-renovations-repairs/static/media/other.2317d478.png",
-    "static/media/MeetEric.css": "/anderson-renovations-repairs/static/media/soft-wallpaper.07d5372d.png",
-    "static/media/BigImage.css": "/anderson-renovations-repairs/static/media/pool-deck.a74311d5.jpg"
+    "main.css": "/anderson-renovations-repairs/index.html/static/css/main.6485cc72.chunk.css",
+    "main.js": "/anderson-renovations-repairs/index.html/static/js/main.c160ef27.chunk.js",
+    "main.js.map": "/anderson-renovations-repairs/index.html/static/js/main.c160ef27.chunk.js.map",
+    "runtime-main.js": "/anderson-renovations-repairs/index.html/static/js/runtime-main.3b12fd06.js",
+    "runtime-main.js.map": "/anderson-renovations-repairs/index.html/static/js/runtime-main.3b12fd06.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/anderson-renovations-repairs/index.html/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.0f19fa27.chunk.js": "/anderson-renovations-repairs/index.html/static/js/2.0f19fa27.chunk.js",
+    "static/js/2.0f19fa27.chunk.js.map": "/anderson-renovations-repairs/index.html/static/js/2.0f19fa27.chunk.js.map",
+    "index.html": "/anderson-renovations-repairs/index.html/index.html",
+    "precache-manifest.94b50a5a69bea00811b867317049422a.js": "/anderson-renovations-repairs/index.html/precache-manifest.94b50a5a69bea00811b867317049422a.js",
+    "service-worker.js": "/anderson-renovations-repairs/index.html/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/anderson-renovations-repairs/index.html/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.6485cc72.chunk.css.map": "/anderson-renovations-repairs/index.html/static/css/main.6485cc72.chunk.css.map",
+    "static/js/2.0f19fa27.chunk.js.LICENSE.txt": "/anderson-renovations-repairs/index.html/static/js/2.0f19fa27.chunk.js.LICENSE.txt",
+    "static/media/Anderson-Logo-Simple.png": "/anderson-renovations-repairs/index.html/static/media/Anderson-Logo-Simple.6a77924f.png",
+    "static/media/ServiceCard.css": "/anderson-renovations-repairs/index.html/static/media/other.2317d478.png",
+    "static/media/MeetEric.css": "/anderson-renovations-repairs/index.html/static/media/soft-wallpaper.07d5372d.png",
+    "static/media/BigImage.css": "/anderson-renovations-repairs/index.html/static/media/pool-deck.a74311d5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.197bbf02.js",
+    "static/js/runtime-main.3b12fd06.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.0f19fa27.chunk.js",
-    "static/css/main.e6e9b6ff.chunk.css",
-    "static/js/main.ab6cb206.chunk.js"
+    "static/css/main.6485cc72.chunk.css",
+    "static/js/main.c160ef27.chunk.js"
   ]
 }

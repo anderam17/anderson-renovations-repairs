@@ -1,8 +1,8 @@
 {
   "name": "anderson-renovations-repairs",
+  "homepage": "https://anderam17.github.io/anderson-renovations-repairs/",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anderam17.github.io/anderson-renovations-repairs",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
@@ -21,6 +21,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

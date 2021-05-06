@@ -2,6 +2,7 @@
   "name": "anderson-renovations-repairs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://anderam17.github.io/anderson-renovations-repairs",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
